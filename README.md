@@ -2,7 +2,7 @@
 
 Réalisé par: **Mehdi Tarissi**
 
-Objectif: création d'un micro-service avec Spring boot, exposer une API Restful, Créer un Web Service GraphQL
+Objectif: Création d'un micro-service avec Spring boot, exposer une API Restful, Créer un Web Service GraphQL
 
 ## Création de l'entité JPA BankAccount
 
@@ -68,5 +68,13 @@ Objectif: création d'un micro-service avec Spring boot, exposer une API Restful
 <img width="846" height="527" alt="image" src="https://github.com/user-attachments/assets/1bde8a9a-a140-4ea6-b265-d60f364d8e5c" />
 
 ### Console GraphiQL
+### Create
+<img width="1472" height="743" alt="image" src="https://github.com/user-attachments/assets/a43fcc78-1a9a-4e58-a820-29ba9441314e" />
+### Update
+<img width="1594" height="681" alt="image" src="https://github.com/user-attachments/assets/54d8f150-4a86-41c6-a1d4-c39ef70ccbd5" />
+### Delete
+<img width="1303" height="685" alt="image" src="https://github.com/user-attachments/assets/aa945a34-a903-4199-9b26-221637ecfaec" />
+### GET (ALL BankAccounts)
+<img width="1567" height="804" alt="image" src="https://github.com/user-attachments/assets/a5cc77e7-3d47-4c4b-8003-b7cec7dbb01c" />
 
 
