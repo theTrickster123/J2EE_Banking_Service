@@ -38,42 +38,34 @@ Objectif: création d'un micro-service avec Spring boot, exposer une API Restful
 
 ## Utilisation des projections
 
-### Code 
+<img width="791" height="405" alt="image" src="https://github.com/user-attachments/assets/f025ada8-00a4-4686-91fa-93066a51a71d" />
 
+### Resultat (Postman)
+<img width="790" height="759" alt="image" src="https://github.com/user-attachments/assets/b3358683-5c40-419d-b3dd-2468d482bcca" />
+<img width="924" height="448" alt="image" src="https://github.com/user-attachments/assets/cbef9831-c3e7-4b5f-a75d-2d2e003b4bad" />
+<img width="722" height="706" alt="image" src="https://github.com/user-attachments/assets/61c5e397-6142-4e45-b7d6-f55a5254636a" />
 
-### Resultat
+### Resultat (Projection)
 
-
+<img width="875" height="708" alt="image" src="https://github.com/user-attachments/assets/92f1ac17-2c26-47a3-9c69-a9e10e37f366" />
 
 ## Documentation SWAGGER
 
-
-
-## Création des DTOs et des Mappers
-
-### BankAccountRequestDTO
-
-
-
-### BankAccountResponseDTO
-
-
-
-### Mappers
-
-
-
-## Couche métier (Services)
-
+<img width="1353" height="945" alt="image" src="https://github.com/user-attachments/assets/a133dcb8-1df5-42d7-a155-200211e7e657" />
 
 ## Création d'une API GraphQL
 
 ### Schema GraphQL
 
+<img width="763" height="674" alt="image" src="https://github.com/user-attachments/assets/ef7dfefb-bc60-4f98-9745-2f83381008b8" />
 
 ### Web Service GraphQL
 
+<img width="1301" height="702" alt="image" src="https://github.com/user-attachments/assets/95736328-2b88-4494-8d26-d1341b300529" />
 
+### Création de la classe CustomDataFetcherExceptionResolver
+
+<img width="846" height="527" alt="image" src="https://github.com/user-attachments/assets/1bde8a9a-a140-4ea6-b265-d60f364d8e5c" />
 
 ### Console GraphiQL
 
